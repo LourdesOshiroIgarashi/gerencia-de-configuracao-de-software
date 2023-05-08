@@ -4,7 +4,7 @@ Date:   Mon May 8 17:04:44 2023 -0400
 
     feat(atividades-branch): adiciona 2 imagens para testar a branch
 
-commit 0d3fb7b20e7dd401480177e43da90de232eef153 (origin/main, origin/HEAD, main, branch_3, branch_2, branch_1)
+commit 0d3fb7b20e7dd401480177e43da90de232eef153 (origin/main, origin/HEAD, main, branch3, branch2, branch1)
 Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
 Date:   Mon Apr 17 14:41:56 2023 -0400
 
@@ -18,7 +18,7 @@ Date:   Mon May 8 17:02:33 2023 -0400
 
     feat(atividades-branch): adiciona 3 imagens para testar a branch
 
-commit 0d3fb7b20e7dd401480177e43da90de232eef153 (origin/main, origin/HEAD, main, branch_3, branch_2, branch_1)
+commit 0d3fb7b20e7dd401480177e43da90de232eef153 (origin/main, origin/HEAD, main, branch3, branch2, branch1)
 Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
 Date:   Mon Apr 17 14:41:56 2023 -0400
 
@@ -32,6 +32,6 @@ Date:   Mon May 8 16:56:28 2023 -0400
 
     feat(atividades-branches): Cria 3 commits para testar a branch
 
-commit 0d3fb7b20e7dd401480177e43da90de232eef153 (origin/main, origin/HEAD, main, branch_3, branch_2, branch_1)
+commit 0d3fb7b20e7dd401480177e43da90de232eef153 (origin/main, origin/HEAD, main, branch3, branch2, branch1)
 Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
 Date:   Mon Apr 17 14:41:56 2023 -0400

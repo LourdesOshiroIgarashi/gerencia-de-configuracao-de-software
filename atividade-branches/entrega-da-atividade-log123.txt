@@ -1,0 +1,102 @@
+# Exercício 1
+
+commit 3c0d2151a97333a972dd49abecd3e9083b8d9c42 (HEAD -> exercicio1, origin/exercicio1)
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 17:57:00 2023 -0400
+
+    feat(exercicio1): adiciona foto da Lourdes
+
+commit ac945070b25f052db2c8f57a470a46e726ee2b74 (origin/main, origin/HEAD, main)
+Author: Everton de Oliveira <84155681+oliveiraeverton@users.noreply.github.com>
+Date:   Mon Apr 17 14:45:43 2023 -0400
+
+    Update README.md
+
+commit 028f39e2f194ae69d31cd8aab02ecb553842abbd
+Author: Everton de Oliveira <84155681+oliveiraeverton@users.noreply.github.com>
+Date:   Mon Apr 17 14:45:21 2023 -0400
+
+    Create README.md
+
+-----------------------------------------------------------------------------------------
+
+# Exercício 2
+
+commit f4ac326f829f843767111ab5f08d1ad35fcd6fc3 (HEAD -> exercicio-2)
+Merge: 54793ef f72046c
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:52:01 2023 -0400
+
+    Merge branch 'exercicio2' into exercicio-2
+
+commit 54793ef22f2cdb0e6a62868c5169e80715bb6e2f (origin/exercicio-2)
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:49:21 2023 -0400
+
+    feat(exercicio2): cria conflito entre branchs
+
+commit f72046c7451dd9b25b98a9bc7609a55dd6fd26d7 (exercicio2)
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:39:43 2023 -0400
+
+    feat(exercicio2): cria conflito
+
+commit fc0bae0a5d23dc9ff3c77cdbcf3f8675acfbb8c6 (origin/main, origin/HEAD, main)
+Merge: 9290f3e 0c4393b
+Author: Everton de Oliveira <84155681+oliveiraeverton@users.noreply.github.com>
+Date:   Mon May 8 18:29:56 2023 -0400
+
+    Merge pull request #7 from oliveiraeverton/exercicio3
+
+    feat(exercicio3): adiciona a imagem da capivara
+
+commit 0c4393bf2ea7b5b32751343de8e3da8d5fb5fb16 (origin/exercicio3)
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:15:58 2023 -0400
+
+    feat(exercicio3): adiciona a imagem da capivara
+
+commit 9290f3e30cf6c54fcc6b21a89f904b3f3f18c571
+Merge: a7c0058 6b9cbad
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:08:54 2023 -0400
+
+    Merge branch 'main' of github.com:oliveiraeverton/GerenciaConfiguracao
+
+commit a7c0058eea1ee6cba52409252bbf1078e8b989eb
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:08:29 2023 -0400
+
+    feat(exercicio3): adiciona imagem ufms
+
+-----------------------------------------------------------------------------------------
+
+# Exercício 3
+
+commit 065056bf7d6ddb653d67a00c4755da8717458ebf (HEAD -> exercicio3)
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:15:58 2023 -0400
+
+    feat(exercicio3): adiciona a imagem da capivara
+
+commit 9290f3e30cf6c54fcc6b21a89f904b3f3f18c571 (origin/main, origin/HEAD, main)
+Merge: a7c0058 6b9cbad
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:08:54 2023 -0400
+
+    Merge branch 'main' of github.com:oliveiraeverton/GerenciaConfiguracao
+
+commit a7c0058eea1ee6cba52409252bbf1078e8b989eb
+Author: Lourdes Oshiro Igarashi <83931936+LourdesOshiroIgarashi@users.noreply.github.com>
+Date:   Mon May 8 18:08:29 2023 -0400
+
+    feat(exercicio3): adiciona imagem ufms
+
+commit 6b9cbade3f1e3d153b15b4f42a5e2ee58aa9b303
+Merge: deba752 3c0d215
+Author: Everton de Oliveira <84155681+oliveiraeverton@users.noreply.github.com>
+Date:   Mon May 8 18:04:34 2023 -0400
+
+    Merge pull request #6 from oliveiraeverton/exercicio1
+
+    feat(exercicio1): adiciona foto da Lourdes
